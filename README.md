@@ -3,10 +3,20 @@
 **Floriane Muller**<sup>1</sup> and **Pablo Iriarte**<sup>2</sup>, University of Geneva, Switzerland
 
 <sup>1</sup>floriane.muller@unige.ch - Scientific Information Division, University Library of Geneva, Medicine and Pharmaceutical Sciences Unit (CMU). Rue Michel-Servet 1, 1211 Geneva - Switzerland
+
 <sup>2</sup>pablo.iriarte@unige.ch - Scientific Information Division, University Library of Geneva, Coordination Unit (CODIS). Rue du Général-Dufour 24, 1211 Geneva - Switzerland
 
 Study presented at the **European Association for Health Information and Libraries (EAHIL) Conference**, Cardiff, 9-13 July 2018.
-https://eahilcardiff2018.wordpress.com/ 
+https://eahilcardiff2018.wordpress.com/
+
+This repository is intended tp give access to the code and jupyter notebooks used in this research. Others academic libraries are invited to use their own data and reproduce all the calculations in order to improve the mothodology and compare the results with the cover of PubMed references we found for the Geneva University library.
+
+To reproduce the calcultations you need two files :
+
+ 1. Paper Journals holdings exported from the library catalogue
+ 2. e-journals holding exported from the link resolver or ERM software
+ 
+The data sources for PubMed, Crossref and unpaywall are not included here because of their big size but they can be downloaded using the links provided in the notebooks. 
 
 ### Abstract
 #### Objective
