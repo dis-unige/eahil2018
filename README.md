@@ -1,5 +1,7 @@
 # Dissecting PubMed: which content is covered by the Library? and Open Access?
+
 **Floriane Muller**<sup>1</sup> and **Pablo Iriarte**<sup>2</sup>, University of Geneva, Switzerland
+
 <sup>1</sup>floriane.muller@unige.ch - Scientific Information Division, University Library of Geneva, Medicine and Pharmaceutical Sciences Unit (CMU). Rue Michel-Servet 1, 1211 Geneva - Switzerland
 <sup>2</sup>pablo.iriarte@unige.ch - Scientific Information Division, University Library of Geneva, Coordination Unit (CODIS). Rue du Général-Dufour 24, 1211 Geneva - Switzerland
 
