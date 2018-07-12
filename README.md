@@ -9,12 +9,12 @@
 Study presented at the **European Association for Health Information and Libraries (EAHIL) Conference**, Cardiff, 9-13 July 2018.
 https://eahilcardiff2018.wordpress.com/
 
-This repository is intended tp give access to the code and jupyter notebooks used in this research. Others academic libraries are invited to use their own data and reproduce all the calculations in order to improve the mothodology and compare the results with the cover of PubMed references we found for the Geneva University library.
+This repository is intended to give access to the code and jupyter notebooks used in this research. Others academic libraries are invited to use their own data and reproduce all the calculations in order to improve the mothodology and compare the results with the cover of PubMed references we found for the Geneva University library.
 
 To reproduce the calcultations you need two files :
 
  1. Paper Journals holdings exported from the library catalogue
- 2. e-journals holding exported from the link resolver or ERM software
+ 2. e-journals holdings exported from the link resolver or ERM software
  
 The data sources for PubMed, Crossref and unpaywall are not included here because of their big size but they can be downloaded using the links provided in the notebooks. 
 
