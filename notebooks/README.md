@@ -28,16 +28,22 @@ PubMed and print journals / ejournals matched by journal ISSN-L and boundary yea
 
 To get the Gold and Green OA figures, we matched PubMed metadata with OA datasets publicly available using 3 strategies :
 
-#### unpaywall: merged by DOI after we enriched the PubMed metadata with new DOIs provided by EuropePMC and those found using our APD strategy used above
+#### unpaywall
+
+Merged by DOI after we enriched the PubMed metadata with new DOIs provided by EuropePMC and those found using our APD strategy used above
 
  - pubmed_merge_unpaywall.ipynb
  - pubmed_merge_unpaywall_results.ipynb
  
-#### DOAJ: merged by ISSN-L and publication year
+#### DOAJ
+
+Merged by ISSN-L and publication year
 
  - pubmed_merge_doaj.ipynb
 
-#### PMC: merged by PMID
+#### PMC
+
+Merged by PMID using the NLM "PMID - PMCID" mapping (PMC-ids.csv.gz file available through their [FTP service](https://www.ncbi.nlm.nih.gov/pmc/tools/ftp/))
 
  - pubmed_merge_pmc.ipynb
  - pubmed_merge_pmc_doaj_results.ipynb
