@@ -15,7 +15,7 @@ This notebook details the process of extracting data in csv format from XML PubM
  - pubmed_merge_crossref.ipynb
  - pubmed_merge_crossref_results.ipynb
 
-Match between PubMed metadata and Crossref metadata (downloaded via the [Crossref's Works API](https://api.crossref.org/works) and metadata extracted using the "[datacapsule](https://github.com/elifesciences/datacapsule-crossref/tree/analysis)" tool of [I4OC](https://i4oc.org/)) using our APD strategy: * First **a**uthor + first **p**age + publication **d**ate. We use the EuropePMC match as gold standard to evaluate our method. Finally we add the article title and similarity comparison criteria to improve our APD method and use both DOIs sources to enrich the PubMed DOIs 
+Match between PubMed metadata and Crossref metadata (downloaded via the [Crossref's Works API](https://api.crossref.org/works) and metadata extracted using the "[datacapsule](https://github.com/elifesciences/datacapsule-crossref/tree/analysis)" tool of [I4OC](https://i4oc.org/)) using our APD strategy: * First **a**uthor + first **p**age + publication **d**ate. We use the Europe PMC "PMID-PMCID-DOI" mapping ([available here](https://europepmc.org/downloads)) as gold standard to evaluate our method. Finally we add the article title and similarity comparison criteria to improve our APD method and use both DOIs sources to enrich the PubMed DOIs
 
 ### 3. PubMed content covered by library collection
 
