@@ -9,7 +9,7 @@
 Study presented at the **European Association for Health Information and Libraries (EAHIL) Conference**, Cardiff, 9-13 July 2018.
 https://eahilcardiff2018.wordpress.com/
 
-This repository is intended to give access to the code and jupyter notebooks used in this research. Others academic libraries are invited to use their own data and reproduce all the calculations in order to improve the methodology and compare the results with the cover of PubMed references we found for the Geneva University library.
+This repository is intended to give access to the code and Jupyter notebooks used in this research. Others academic libraries are invited to use their own data and reproduce all the calculations in order to improve the methodology and compare the results with the cover of PubMed references we found for the Geneva University library.
 
 To reproduce the calculations you need two files :
 
@@ -29,7 +29,7 @@ Confronting PubMed metadata and extractions from our paper and electronic collec
 
 Despite the efforts of the publishers to rescan the journal archives and the implementation of a commercial offer on backfiles, the proportion of DOIs remains very low in PubMed metadata of articles published before 2000 (9%),leading us to believe that some articles might be disconnected from their identifiers. Indeed, a first analysis revealed that only 43% of articles in PubMed contain DOIs (11'931'616 of 27'836'723 citations). Most of OA tools relying on DOIs, we first had to try to reconnect PubMed's articles with their DOIs to make sure as many OA versions as possible were found.
 
-Missing DOIs were obtained by merging CrossRef and PubMed metadata. A dataset published by EuropePMC (discovered midway through our research) proved to be a wealth of information and allowed us to evaluate and complete the DOIs found. OA information was obtained from Unpaywall, PMC and DOAJ, evaluating full-text availability for the public and practitioners not affiliated with the university. We finally used the NLM e-utilities "ELink" API to import all the links provided by publishers and displayed in PubMed references, in order to compare our results.
+Missing DOIs were obtained by merging Crossref and PubMed metadata. A dataset published by EuropePMC (discovered midway through our research) proved to be a wealth of information and allowed us to evaluate and complete the DOIs found. OA information was obtained from unpaywall, PMC and DOAJ, evaluating full-text availability for the public and practitioners not affiliated with the university. We finally used the NLM e-utilities "ELink" API to import all the links provided by publishers and displayed in PubMed references, in order to compare our results.
 
 #### Results
 PubMed metadata enriched with DOIs and OA information provided us with precise breakdowns of PMIDs accessibility, either through institutional access, or through Open Access sources.

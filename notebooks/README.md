@@ -2,7 +2,7 @@
 
 ## Jupyter Notebooks
 
-This folder contains the jupyter notebooks used in this research. Others academic libraries are invited to use their own data and reproduce all the calculations in order to improve the methodology and compare the results with the cover of PubMed references we found for the Geneva University library.
+This folder contains the Jupyter notebooks used in this research. Others academic libraries are invited to use their own data and reproduce all the calculations in order to improve the methodology and compare the results with the cover of PubMed references we found for the Geneva University library.
 
 ### 1. PubMed dissection
 
