@@ -22,7 +22,7 @@ Match between PubMed metadata and Crossref metadata (downloaded via the [Crossre
  - pubmed_merge_library_coverage.ipynb
  - pubmed_merge_library_coverage_results.ipynb
  
-PubMed and print journals / ejournals matched by journal ISSN-L and boundary years of subscriptions --> standardising / normalizing print holdings coded in free text and ejournals as activtated in SFX. Then enriching this data with ISSN-L before matching it against PubMed using journal ISSN-L and boundary years of subscriptions
+PubMed and print journals / ejournals matched by journal ISSN-L and boundary years of subscriptions --> standardising / normalizing print holdings coded in free text and ejournals as activated in SFX. Then enriching this data with ISSN-L before matching it against PubMed using journal ISSN-L and boundary years of subscriptions
 
 ### 4. Which PubMed content is OA ?
 
@@ -48,7 +48,7 @@ Merged by PMID using the NLM "PMID - PMCID" mapping (PMC-ids.csv.gz file availab
  - pubmed_merge_pmc.ipynb
  - pubmed_merge_pmc_doaj_results.ipynb
 
-#### Swiss National Licences: merged by ISSN-L and publication year. It is not OA for all, but free access for any citizen living in Switerland
+#### Swiss National Licences: merged by ISSN-L and publication year. It is not OA for all, but free access for any citizen living in Switzerland
 
  - pubmed_merge_national_licences_ch.ipynb
  - pubmed_merge_national_licences_ch_results.ipynb
